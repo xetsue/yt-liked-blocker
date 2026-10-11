@@ -1,4 +1,4 @@
-# YouTube Liked Blocker
+# YouTube Liked Blocker Browser Extension
 Automatically hides or marks videos you have already liked on your YouTube feed. No data is collected online, and the indexing process is done completely offline in your own browser.
 > <img width="352" height="499" alt="image" src="https://github.com/user-attachments/assets/9fff2234-d2c6-4b49-addc-58835eba7e73" />
 > <img width="374" height="315" alt="image" src="https://github.com/user-attachments/assets/e2bf79c5-33da-442c-a61a-7f3f5fcc5087" />
