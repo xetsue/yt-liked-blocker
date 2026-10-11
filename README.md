@@ -3,6 +3,7 @@ Automatically hides or marks videos you have already liked on your YouTube feed.
 > <img width="352" height="499" alt="image" src="https://github.com/user-attachments/assets/9fff2234-d2c6-4b49-addc-58835eba7e73" />
 > <img width="374" height="315" alt="image" src="https://github.com/user-attachments/assets/e2bf79c5-33da-442c-a61a-7f3f5fcc5087" />
 
+Virustotal scan: https://www.virustotal.com/gui/file-analysis/NWEwNzM0ODYyNzkzMjVhOGE1Y2IxODNkYTcwMGJiMzk6MTc5MTc0MzA1OQ==
 
 
 ## Usage
