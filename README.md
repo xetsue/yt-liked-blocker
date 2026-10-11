@@ -1,2 +1,14 @@
-# yt-liked-blocker
-Automatically hides or marks videos you have already liked on your YouTube feed. No data is collected online, the process is done offline in your own browser only.
+# YouTube Liked Blocker
+Automatically hides or marks videos you have already liked on your YouTube feed. No data is collected online, and the indexing process is done completely offline in your own browser.
+
+
+## Usage
+The indexing of older videos past 100+ in your liked playlist requires you to open https://www.youtube.com/playlist?list=LL while the extension is enabled, and scroll down to the very bottom of this page to record all the liked videos. 
+
+There is no need to click each video one by one. Simply open the liked videos page and scroll down is enough. On supported browsers, press down on your scroll wheel to auto-scroll down to the bottom. 
+
+Be mindful of your scrolling speed, as scrolling too fast may skip some videos along the way. This rarely happens during testing, but if it does, then this might be the reason why.
+
+## Installation
+- Chromium-based users should download the `.zip` files, extract them, and install unpacked extensions through the browser by selecting the extracted folder just now.
+- Firefox users can fetch the `.xpi` file or install it through the dedicated installation website. The extension is compatible with both desktop and mobile firefox.
