@@ -13,5 +13,7 @@ There is no need to click each video one by one. Simply open the liked videos pa
 Be mindful of your scrolling speed, as scrolling too fast may skip some videos along the way. This rarely happens during testing, but if it does, then this might be the reason why.
 
 ## Installation
+Download from https://xetsue.github.io/yt-liked-blocker/
+
 - Chromium-based users should download the `.zip` files, extract them, and install unpacked extensions through the browser by selecting the extracted folder just now. Refer to general guide for your browsers online, or refer to [Chrome Guide Here](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
 - Firefox users can fetch the `.xpi` file from the directory or the site page on . The extension is compatible with both desktop and mobile firefox. On mobile, it will require you to unlock developer mode in the browser by tapping About section in the browser setting and tap on Firefox logo in that page 5 times. Then Install extension through "Install extension from file".
