@@ -14,6 +14,7 @@ Be mindful of your scrolling speed, as scrolling too fast may skip some videos a
 
 ## Installation
 Download from https://xetsue.github.io/yt-liked-blocker/
+There are no other sources of this extension, this is the only official page YT Liked Blocker. Do not retrieve files obtained elsewhere without scanning for it's safety on VirusTotal. By installing this extension, you are responsible for any consequences that may or may not follow.
 
 - Chromium-based users should download the `.zip` files, extract them, and install unpacked extensions through the browser by selecting the extracted folder just now. Refer to general guide for your browsers online, or refer to [Chrome Guide Here](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
 - Firefox users can fetch the `.xpi` file from the directory or the site page on . The extension is compatible with both desktop and mobile firefox. On mobile, it will require you to unlock developer mode in the browser by tapping About section in the browser setting and tap on Firefox logo in that page 5 times. Then Install extension through "Install extension from file".
